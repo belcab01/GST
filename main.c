@@ -9,5 +9,5 @@ void main
 
     printf("crear mensajes grupales");
 	
-    
+    printf("crear filtro de censura");
 }
