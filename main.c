@@ -33,10 +33,8 @@ printf("boton");
 
 //invite friends
 
-
-
-
 printf(" lobby");
+printf("invitacion");
 
 
 }
