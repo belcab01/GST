@@ -34,6 +34,6 @@ printf("boton");
 //popularity
     printf(" página populares");
     
->>>>>>> pagina_populares
+
 }
 
