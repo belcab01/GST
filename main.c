@@ -12,7 +12,7 @@ void main
     printf("crear filtro de censura");
 
 
-
+	
 
     //gift card
     
