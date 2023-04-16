@@ -31,6 +31,7 @@ printf("pagina novedades");
 printf("juegos recientes");
 printf("boton");
 
+<<<<<<< HEAD
 //invite friends
 
 printf(" lobby");
@@ -40,6 +41,12 @@ printf("invitacion");
     printf(" página populares");
        printf("juegos populares");
        printf("boton populares");
+
+ 
+//save achievement
+printf("pagina logros");
+printf("selecion de logros");
+printf("logros externos");
 
 }
 
