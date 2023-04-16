@@ -12,7 +12,7 @@ void main
     printf("crear filtro de censura");
 
 
-
+	
 
     //gift card
     
@@ -35,6 +35,11 @@ printf("boton");
 
 printf(" lobby");
 printf("invitacion");
+
+//popularity
+    printf(" página populares");
+       printf("juegos populares");
+       printf("boton populares");
 
 }
 
