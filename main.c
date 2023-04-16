@@ -29,6 +29,9 @@ void main
 
 printf("pagina novedades");
 printf("juegos recientes");
-printf("boton")
+printf("boton");
+
+
+
 }
->>>>>>> Latest
+
