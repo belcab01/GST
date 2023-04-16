@@ -32,5 +32,8 @@ printf("juegos recientes");
 printf("boton");
 
 //popularity
+
+    printf(" página populares");
+    
 }
 
