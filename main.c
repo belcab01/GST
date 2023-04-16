@@ -33,8 +33,7 @@ printf("boton");
 
 
 //save achievement
-
-
+printf("pagina logros");
 
 }
 
