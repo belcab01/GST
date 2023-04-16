@@ -32,6 +32,10 @@ printf("juegos recientes");
 printf("boton");
 
 
+//invite friends
+
+printf(" lobby");
+printf("invitacion");
 
 }
 
