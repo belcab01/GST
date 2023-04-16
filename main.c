@@ -31,7 +31,7 @@ printf("pagina novedades");
 printf("juegos recientes");
 printf("boton");
 
-
+ 
 //save achievement
 printf("pagina logros");
  
