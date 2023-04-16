@@ -34,6 +34,11 @@ printf("boton");
  
 //save achievement
 printf("pagina logros");
+printf("selecion de logros");
+
+
+
+
 
 printf("logros externos");
 
